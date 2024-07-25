@@ -1,0 +1,3 @@
+ollama rm lily
+ollama create lily -f C:\Users\ksame\Desktop\Lily\lily.modelfile
+ollama run lily
